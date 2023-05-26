@@ -2,7 +2,7 @@ function Home_Page() {
 	location.replace('//aanwhs.github.io/cryptokenwallet')
 }
 function CrypTokenWallet_Page() {
-	location.replace('//aanwhs.github.io/cryptokenwallet.html')
+	location.replace('//aanwhs.github.io/cryptokenwallet/cryptokenwallet.html')
 }
 function About_Page() {
 	location.replace('//aanwhs.github.io/cryptokenwallet/about.html')
